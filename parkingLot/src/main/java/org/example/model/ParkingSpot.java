@@ -1,6 +1,5 @@
 package org.example.model;
 
-import com.sun.media.jfxmedia.logging.Logger;
 import lombok.extern.slf4j.Slf4j;
 import org.example.exceptions.ParkingSpotNotAvailableException;
 

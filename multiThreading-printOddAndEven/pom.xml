@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>parkingLot</artifactId>
+    <artifactId>multiThreading-printOddAndEven</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -18,7 +18,8 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.32</version>
-            <scope>provided</scope>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
+
 </project>
